@@ -23,9 +23,3 @@ This project demonstrates a simple hash table implementation in C.
 
 - **Printing (`print_table`)**:
   Prints the entire hash table, showing index slots and chained elements.
-
-## Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/ayabedair/Hash-Table-Implementation.git
